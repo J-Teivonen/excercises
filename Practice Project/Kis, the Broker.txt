@@ -1,0 +1,15 @@
+Kis, the Broker, Dragonborn Rogue
+Level 6
+
+Proficiency: 	+3
+Armor Class: 	13  (Without Armor)
+Hit Points Maximum: 	22
+
+Abilities 		 Modifier 
+
+Strength	10	(+0)
+Dexterity	16	(+3)
+Constitution	10	(+0)
+Intelligence	16	(+3)
+Wisdom		12	(+1)
+Charisma	16	(+3)
